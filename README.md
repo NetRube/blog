@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[First blog](https://netrube.github.io/blog/2017/08/27/hello.html)
+
 You can use the [editor on GitHub](https://github.com/NetRube/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
